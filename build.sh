@@ -1,0 +1,1 @@
+docker build -t bamboo-agent-custom-base --build-arg BAMBOO_VERSION=7.0.4 .
